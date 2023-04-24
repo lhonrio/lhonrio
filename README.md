@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Lucas 👋 </h1>
+</div> 
+
+<p align="center">
+  <a href="https://visitor-badge.glitch.me/badge?page_id=lhonrio&left_color=blue&right_color=red"> <img alt="lhonrio github" src="https://visitor-badge.glitch.me/badge?page_id=lhonrio&left_color=blue&right_color=red"> </a>
+</p>
 
 Passionate about technology and challenges.
 
